@@ -45,5 +45,5 @@ Fuel fraud and quality issues are persistent challenges in fuel distribution. Th
 
 ```plaintext
 src/        → Arduino code and logic  
-docs/       → Conference paper and project documentation  
+doc/       → Conference paper and project documentation  
 README.md   → Project overview and instructions
