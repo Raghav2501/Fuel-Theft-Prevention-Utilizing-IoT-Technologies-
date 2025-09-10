@@ -51,4 +51,4 @@ Launch dashboard from /dashboard folder
 Monitor fuel metrics in real time
 
 📬 Contact
-Developed by Ragavantiran Gurumoorthy For queries or collaboration: LinkedIn | Email
+Developed by Ragavantiran Gurumoorthy For queries : krraghav2501@gmail.com
