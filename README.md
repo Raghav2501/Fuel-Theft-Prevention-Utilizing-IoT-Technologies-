@@ -30,9 +30,7 @@ Embedded C / Arduino IDE
 📁 Repository Contents
 /src – Arduino code for sensor integration and dashboard display
 
-/docs – Project report, schematics, and system architecture
-
-/dashboard – UI files for real-time monitoring
+/docs – Project report contains schematics and system architecture
 
 /images – Circuit diagrams and setup photos
 
