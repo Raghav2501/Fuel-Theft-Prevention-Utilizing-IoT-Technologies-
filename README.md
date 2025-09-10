@@ -39,6 +39,11 @@ Fuel fraud and quality issues are persistent challenges in fuel distribution. Th
 <img width="315" height="234" alt="Screenshot 2025-09-10 at 2 15 08 PM" src="https://github.com/user-attachments/assets/2477a61c-dfb7-492c-8897-f82beb049901" />
 
 
+*Real-Time fuel data on the Arduino Cloud.*
+
+
+<img width="337" height="112" alt="Screenshot 2025-09-10 at 2 21 09 PM" src="https://github.com/user-attachments/assets/99a10e5d-0a33-48ea-b756-2ea54bf2877a" />
+
 ---
 
 ## 📁 Repository Structure
