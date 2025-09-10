@@ -1,52 +1,47 @@
-🔒 Fuel Theft Prevention Using IoT
-A real-time fuel monitoring system designed to combat fuel fraud and adulteration at gas stations and within vehicles. This project leverages the Arduino GIGA R1 WiFi platform along with multiple sensors to provide transparency, quality assurance, and theft detection.
+# 🔒 Fuel Theft Prevention Using IoT
 
-🚀 Features
-Live Dashboard: Real-time fuel data displayed via Arduino GIGA Display
+This project presents a real-time fuel monitoring system designed to detect and prevent fuel theft and adulteration at petrol stations and within vehicles. Developed using the **Arduino GIGA R1 WiFi**, the system integrates multiple sensors and a live dashboard to provide transparency and control over fuel dispensing.
 
-Cloud Integration: Remote monitoring of fuel levels and quality
+---
 
-Fuel Quality Detection: pH sensor identifies adulteration
+## 📌 Project Overview
 
-Flow & Volume Tracking: Ultrasonic sensor and flow meter detect anomalies
+Fuel fraud and quality issues are persistent challenges in fuel distribution. This system addresses those problems by combining sensor data, embedded processing, and cloud connectivity to monitor fuel levels, flow rate, and chemical integrity.
 
-In-Vehicle Monitoring: Embedded system alerts users to fuel theft
+### Key Features:
+- **Ultrasonic Sensor**: Measures tank fuel levels to detect discrepancies  
+- **Flow Meter**: Tracks fuel dispensing rate to identify unauthorized withdrawals  
+- **pH Sensor**: Detects fuel adulteration by analyzing chemical properties  
+- **GIGA Display**: Shows real-time fuel metrics on-site  
+- **WiFi Connectivity**: Enables remote monitoring via cloud dashboard  
+- **In-Vehicle Integration**: Alerts users to fuel theft during transit
 
-🧰 Technologies Used
-Arduino GIGA R1 WiFi
+---
 
-Ultrasonic Sensor
+## 🧰 Technologies Used
 
-Flow Meter
+- Arduino GIGA R1 WiFi  
+- Ultrasonic Sensor  
+- Flow Meter  
+- pH Sensor  
+- Arduino GIGA Display  
+- Embedded C / Arduino IDE  
+- WiFi & Cloud Services
 
-pH Sensor
+---
 
-Arduino GIGA Display
 
-WiFi & Cloud Services
+## 📊 Display Interface
 
-Embedded C / Arduino IDE
+*Real-time fuel data shown on the GIGA Display module.*
 
-📁 Repository Contents
-/src – Arduino code for sensor integration and dashboard display
+![Dashboard Display](dashboard_display.jpg)
 
-/docs – Project report contains schematics and system architecture
+---
 
-/images – Circuit diagrams and setup photos
+## 📁 Repository Structure
 
-📖 Project Background
-This system was developed as part of a postgraduate IoT research project focused on applying embedded systems and sensor networks to real-world problems. The goal is to empower consumers and fuel station operators with tools to detect fraud, monitor fuel quality, and ensure transparency.
-
-🛠 Setup Instructions
-Connect sensors to Arduino GIGA R1 WiFi as per the schematic
-
-Upload code from /src using Arduino IDE
-
-Configure WiFi credentials for cloud sync
-
-Launch dashboard from /dashboard folder
-
-Monitor fuel metrics in real time
-
-📬 Contact
-Developed by Ragavantiran Gurumoorthy For queries : krraghav2501@gmail.com
+```plaintext
+src/        → Arduino code and logic  
+docs/       → Conference paper and project documentation  
+README.md   → Project overview and instructions
