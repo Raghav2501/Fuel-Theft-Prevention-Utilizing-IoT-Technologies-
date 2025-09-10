@@ -35,7 +35,6 @@ Fuel fraud and quality issues are persistent challenges in fuel distribution. Th
 
 *Real-time fuel data shown on the GIGA Display module.*
 
-![Dashboard Display](dashboard_display.jpg)
 
 <img width="315" height="234" alt="Screenshot 2025-09-10 at 2 15 08 PM" src="https://github.com/user-attachments/assets/2477a61c-dfb7-492c-8897-f82beb049901" />
 
